@@ -1,0 +1,21 @@
+---
+title: "2025_B2"
+author: [王逸帆]
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: ctexbook
+output: bookdown::gitbook
+# output: bookdown::bs4_book
+link-citations: true
+url: https://mt019.github.io/2025_B2/
+description: "2025_B2。采用R的bookdown制作，输出格式为bookdown::gitbook."
+
+---
+
+
+# Preface {-}
+
+2025_B2。采用R的bookdown製作，輸出格式為bookdown::gitbook。
+
+
+
