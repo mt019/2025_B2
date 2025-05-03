@@ -12,37 +12,35 @@ output_dir: "docs"
 rmd_subdir: true
 rmd_files:
   - index.Rmd
-  - ./Chapters/001_近義詞/區域.md
-  - ./Chapters/001_近義詞/計劃.md
+  - ./Chapters/000_小知識/00_口語標題.md
+  - ./Chapters/000_小知識/相關概念近義詞.md
+  - ./Chapters/000_小知識/萬用小知識.md
   - ./Chapters/00__詞彙表知識點/0427.md
+  - ./Chapters/00__詞彙表知識點/0428-1.md
   - ./Chapters/00__詞彙表知識點/0428-2.md
-  - ./Chapters/00__詞彙表知識點/0428.md
+  - ./Chapters/00__詞彙表知識點/0429-1.md
   - ./Chapters/00__詞彙表知識點/0429-2.md
   - ./Chapters/00__詞彙表知識點/0429-3.md
-  - ./Chapters/00__詞彙表知識點/0429.md
   - ./Chapters/00__詞彙表知識點/0430.md
   - ./Chapters/00__詞彙表知識點/0501-1.md
-  - ./Chapters/00__詞彙表知識點/0501.md
+  - ./Chapters/00__詞彙表知識點/0501-2.md
   - ./Chapters/00__詞彙表知識點/0502.md
   - ./Chapters/00__詞彙表知識點/0503.md
-  - ./Chapters/00_備考思路/00備考日曆.md
-  - ./Chapters/00_備考思路/00目標6.26備考.md
-  - ./Chapters/00_備考思路/備考時間線.md
-  - ./Chapters/00_自我評估/自評模板.md
+  - ./Chapters/01_聽力/00_聽力標題.md
   - ./Chapters/01_聽力/T01/T01.md
+  - ./Chapters/03_寫作/00_寫作標題.md
   - ./Chapters/03_寫作/Teil_1_Forumsbeitrag/主題範文/01_環境永續.md
   - ./Chapters/03_寫作/Teil_1_Forumsbeitrag/句型表達訓練.md
   - ./Chapters/03_寫作/Teil_1_Forumsbeitrag/常用連接詞與結構模板.md
   - ./Chapters/03_寫作/Teil_1_Forumsbeitrag/高頻主題清單.md
-  - ./Chapters/03_寫作/備考指南模擬試題/自己練習寫作錯錯錯.md
-  - ./Chapters/03_寫作/備考指南模擬試題/試題匯總.md
+  - ./Chapters/03_寫作/備考指南模擬試題/00_寫作試題匯總.md
+  - ./Chapters/03_寫作/備考指南模擬試題/01_寫作範文和抄寫.md
+  - ./Chapters/03_寫作/備考指南模擬試題/02_寫作自己練習錯錯錯.md
   - ./Chapters/03_寫作/官方模擬題/官方模擬寫作題.md
-  - ./Chapters/03_寫作/模仿練習/備考指南範文抄寫.md
   - ./Chapters/03_寫作/萬用寫作模組.md
-  - ./Chapters/04_口語/Shared/Handy.md
-  - ./Chapters/04_口語/備考指南模擬試題/B2口語素材.md
+  - ./Chapters/04_口語/00_口語標題.md
+  - ./Chapters/04_口語/01_萬用口試模組.md
+  - ./Chapters/04_口語/備考指南模擬試題/B1口語範文.md
+  - ./Chapters/04_口語/備考指南模擬試題/B2口語範文素材.md
   - ./Chapters/04_口語/備考指南模擬試題/B2口語試題匯總.md
   - ./Chapters/04_口語/官方模擬題/官方模擬口語題.md
-  - ./Chapters/04_口語/萬用發言模組.md
-  - ./Chapters/網課/0422.md
-  - ./Chapters/網課/新编4/KB_192.md
