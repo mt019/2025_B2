@@ -12,9 +12,16 @@ output_dir: "docs"
 rmd_subdir: true
 rmd_files:
   - index.Rmd
-  - ./Chapters/000_小知識/00_口語標題.md
+  - ./Chapters/000_小知識/00_小知識標題.md
+  - ./Chapters/000_小知識/天氣.md
+  - ./Chapters/000_小知識/序數詞.md
+  - ./Chapters/000_小知識/後置介詞.md
   - ./Chapters/000_小知識/相關概念近義詞.md
+  - ./Chapters/000_小知識/考試用萬能詞.md
   - ./Chapters/000_小知識/萬用小知識.md
+  - ./Chapters/000_小知識/音樂.md
+  - ./Chapters/00__詞彙表知識點/00_知識點每日精選.md
+  - ./Chapters/00__詞彙表知識點/00_詞彙表標題.md
   - ./Chapters/00__詞彙表知識點/0427.md
   - ./Chapters/00__詞彙表知識點/0428-1.md
   - ./Chapters/00__詞彙表知識點/0428-2.md
@@ -25,7 +32,17 @@ rmd_files:
   - ./Chapters/00__詞彙表知識點/0501-1.md
   - ./Chapters/00__詞彙表知識點/0501-2.md
   - ./Chapters/00__詞彙表知識點/0502.md
-  - ./Chapters/00__詞彙表知識點/0503.md
+  - ./Chapters/00__詞彙表知識點/0503-1.md
+  - ./Chapters/00__詞彙表知識點/0503-2.md
+  - ./Chapters/00__詞彙表知識點/0504-1.md
+  - ./Chapters/00__詞彙表知識點/0504-2.md
+  - ./Chapters/00__詞彙表知識點/0505-1.md
+  - ./Chapters/00__詞彙表知識點/0506-1.md
+  - ./Chapters/00__詞彙表知識點/0507-1.md
+  - ./Chapters/00__詞彙表知識點/0508-1.md
+  - ./Chapters/00__詞彙表知識點/0510-1.md
+  - ./Chapters/00__詞彙表知識點/0511-1.md
+  - ./Chapters/00__詞彙表知識點/0512-1.md
   - ./Chapters/01_聽力/00_聽力標題.md
   - ./Chapters/01_聽力/T01/T01.md
   - ./Chapters/03_寫作/00_寫作標題.md
@@ -40,6 +57,7 @@ rmd_files:
   - ./Chapters/03_寫作/萬用寫作模組.md
   - ./Chapters/04_口語/00_口語標題.md
   - ./Chapters/04_口語/01_萬用口試模組.md
+  - ./Chapters/04_口語/02_萬用口語提問.md
   - ./Chapters/04_口語/備考指南模擬試題/B1口語範文.md
   - ./Chapters/04_口語/備考指南模擬試題/B2口語範文素材.md
   - ./Chapters/04_口語/備考指南模擬試題/B2口語試題匯總.md
