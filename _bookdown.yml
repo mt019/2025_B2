@@ -15,55 +15,77 @@ rmd_files:
   - ./Chapters/000_小知識/00_小知識標題.md
   - ./Chapters/000_小知識/和弦.md
   - ./Chapters/000_小知識/天氣.md
+  - ./Chapters/000_小知識/寫作2.md
   - ./Chapters/000_小知識/序數詞.md
   - ./Chapters/000_小知識/後置介詞.md
   - ./Chapters/000_小知識/時間狀態副詞.md
   - ./Chapters/000_小知識/相關概念近義詞.md
   - ./Chapters/000_小知識/考試用萬能詞.md
   - ./Chapters/000_小知識/萬用小知識.md
+  - ./Chapters/000_小知識/長期來看.md
   - ./Chapters/000_小知識/音樂.md
   - ./Chapters/000_小知識/麻糬.md
+  - ./Chapters/000_最後7天/口語提綱.md
+  - ./Chapters/000_最後7天/寫作匯總.md
+  - ./Chapters/000_最後7天/寫作資源.md
+  - ./Chapters/000_最後7天/詞匯抱佛腳.md
+  - ./Chapters/000_最後7天/雙人討論.md
   - ./Chapters/00__詞彙表知識點/00_知識點每日精選.md
   - ./Chapters/00__詞彙表知識點/00_詞彙表標題.md
-  - ./Chapters/00__詞彙表知識點/0427.md
-  - ./Chapters/00__詞彙表知識點/0428-1.md
-  - ./Chapters/00__詞彙表知識點/0428-2.md
-  - ./Chapters/00__詞彙表知識點/0429-1.md
-  - ./Chapters/00__詞彙表知識點/0429-2.md
-  - ./Chapters/00__詞彙表知識點/0429-3.md
-  - ./Chapters/00__詞彙表知識點/0430.md
-  - ./Chapters/00__詞彙表知識點/0501-1.md
-  - ./Chapters/00__詞彙表知識點/0501-2.md
-  - ./Chapters/00__詞彙表知識點/0502.md
-  - ./Chapters/00__詞彙表知識點/0503-1.md
-  - ./Chapters/00__詞彙表知識點/0503-2.md
-  - ./Chapters/00__詞彙表知識點/0504-1.md
-  - ./Chapters/00__詞彙表知識點/0504-2.md
-  - ./Chapters/00__詞彙表知識點/0505-1.md
-  - ./Chapters/00__詞彙表知識點/0506-1.md
-  - ./Chapters/00__詞彙表知識點/0507-1.md
-  - ./Chapters/00__詞彙表知識點/0508-1.md
-  - ./Chapters/00__詞彙表知識點/0510-1.md
-  - ./Chapters/00__詞彙表知識點/0511-1.md
-  - ./Chapters/00__詞彙表知識點/0512-1.md
-  - ./Chapters/00__詞彙表知識點/0513-1.md
-  - ./Chapters/00__詞彙表知識點/0514-1.md
-  - ./Chapters/00__詞彙表知識點/0515-1.md
-  - ./Chapters/00__詞彙表知識點/0517-1.md
-  - ./Chapters/00__詞彙表知識點/0518-1.md
-  - ./Chapters/00__詞彙表知識點/0519-1.md
-  - ./Chapters/00__詞彙表知識點/0521-1.md
-  - ./Chapters/00__詞彙表知識點/0522-1.md
-  - ./Chapters/00__詞彙表知識點/0523-1.md
-  - ./Chapters/00__詞彙表知識點/0524-1.md
-  - ./Chapters/00__詞彙表知識點/0525-1.md
+  - ./Chapters/00__詞彙表知識點/0603.md
+  - ./Chapters/00__詞彙表知識點/0604.md
+  - ./Chapters/00__詞彙表知識點/0606.md
+  - ./Chapters/00__詞彙表知識點/0607.md
+  - ./Chapters/00__詞彙表知識點/0609.md
+  - ./Chapters/00__詞彙表知識點/0611.md
+  - ./Chapters/00__詞彙表知識點/0612.md
+  - ./Chapters/00__詞彙表知識點/0613.md
+  - ./Chapters/00__詞彙表知識點/0614.md
+  - ./Chapters/00__詞彙表知識點/0622.md
+  - ./Chapters/00__詞彙表知識點/0624.md
+  - ./Chapters/00__詞彙表知識點/0625.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0427.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0428-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0428-2.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0429-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0429-2.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0429-3.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0430.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0501-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0501-2.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0502.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0503-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0503-2.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0504-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0504-2.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0505-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0506-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0507-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0508-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0510-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0511-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0512-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0513-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0514-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0515-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0517-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0518-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0519-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0521-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0522-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0523-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0524-1.md
+  - ./Chapters/00__詞彙表知識點/歷史存檔/0525-1.md
   - ./Chapters/01_聽力/00_聽力標題.md
   - ./Chapters/01_聽力/T01/T01.md
   - ./Chapters/03_寫作/00_寫作標題.md
+  - ./Chapters/03_寫作/MitErfolg模擬題/00_MitErfolg寫作試題匯總.md
   - ./Chapters/03_寫作/Teil_1_Forumsbeitrag/主題範文/01_環境永續.md
   - ./Chapters/03_寫作/Teil_1_Forumsbeitrag/句型表達訓練.md
   - ./Chapters/03_寫作/Teil_1_Forumsbeitrag/常用連接詞與結構模板.md
   - ./Chapters/03_寫作/Teil_1_Forumsbeitrag/高頻主題清單.md
+  - ./Chapters/03_寫作/Teil_2_Nachricht_Email/自己寫.md
+  - ./Chapters/03_寫作/Teil_2_Nachricht_Email/自己整理常用句.md
   - ./Chapters/03_寫作/備考指南模擬試題/00_寫作試題匯總.md
   - ./Chapters/03_寫作/備考指南模擬試題/01_寫作範文和抄寫.md
   - ./Chapters/03_寫作/備考指南模擬試題/02_寫作自己練習錯錯錯.md
@@ -74,7 +96,13 @@ rmd_files:
   - ./Chapters/04_口語/00_口語標題.md
   - ./Chapters/04_口語/01_萬用口試模組.md
   - ./Chapters/04_口語/02_萬用口語提問.md
+  - ./Chapters/04_口語/MitErfolg模擬題/00_MitErfolg口語試題匯總.md
+  - ./Chapters/04_口語/一對一德語課/口語模板.md
+  - ./Chapters/04_口語/一對一德語課/廖老師德語課.md
+  - ./Chapters/04_口語/一對一德語課/整理主題.md
+  - ./Chapters/04_口語/一對一德語課/胡老師.md
   - ./Chapters/04_口語/備考指南模擬試題/B1口語範文.md
   - ./Chapters/04_口語/備考指南模擬試題/B2口語範文素材.md
   - ./Chapters/04_口語/備考指南模擬試題/B2口語試題匯總.md
+  - ./Chapters/04_口語/官方模擬題/官方模擬口語準備.md
   - ./Chapters/04_口語/官方模擬題/官方模擬口語題.md
